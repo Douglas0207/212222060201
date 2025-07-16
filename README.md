@@ -96,17 +96,16 @@ Save the token in `localStorage` as `log_token`.
 
 > Screenshots of the working frontend and backend will go here.
 
-### ✅ Register Page
+### Shortener Page
 
-![Register](screenshots/register.png)
+<img width="1440" height="900" alt="Screenshot 2025-07-16 at 4 27 39 PM" src="https://github.com/user-attachments/assets/736451df-07a5-4978-ac6e-41495d1f3562" />
 
-### ✅ Shortener Page
+<img width="1440" height="900" alt="Screenshot 2025-07-16 at 4 27 43 PM" src="https://github.com/user-attachments/assets/7d2f7105-4f3f-4803-97c0-fb3be2eb7cd0" />
 
-![Shorten URL](screenshots/shorten.png)
+<img width="1440" height="900" alt="Screenshot 2025-07-16 at 4 28 21 PM" src="https://github.com/user-attachments/assets/ed28a98c-679f-44cf-8c0f-d89d52bde040" />
 
-### ✅ Backend Console Logs
+<img width="1440" height="900" alt="Screenshot 2025-07-16 at 4 28 39 PM" src="https://github.com/user-attachments/assets/aeba047a-f103-4dfe-9982-7296f7757839" />
 
-![Backend](screenshots/backend.png)
 
 ---
 
@@ -118,17 +117,3 @@ GitHub: [Douglas0207](https://github.com/Douglas0207)
 
 ---
 
-## License
-
-This project is built for educational purposes.
-
-```
-
----
-
-### To Use:
-- Save this as `README.md` in the root of your project.
-- Create a `screenshots/` folder and add your images (e.g., `register.png`, `shorten.png`, `backend.png`).
-
-Let me know if you also want a `.gitignore` or `package.json` cleanup!
-```
