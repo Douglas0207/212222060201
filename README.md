@@ -30,10 +30,11 @@ This is a full-stack URL Shortening application built with:
 
 ---
 
+
+```markdown
 ## Folder Structure
 
----
-
+```
 
 212222060201/
 │
@@ -52,8 +53,12 @@ This is a full-stack URL Shortening application built with:
 │   ├── log.ts
 │   └── getLogToken.cjs
 
+```
+```
 
----
+### ✅ Copy-paste this block into your `README.md` and it will render perfectly aligned in GitHub.
+
+Let me know when your screenshots are ready, and I can update the image markdown for you too.
 
 ## How to Use
 
