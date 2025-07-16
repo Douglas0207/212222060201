@@ -77,14 +77,13 @@ Save the token in `localStorage` as `log_token`.
 
 ### Shortener Page
 
-<img width="1440" height="900" alt="Screenshot 2025-07-16 at 4 27 39 PM" src="https://github.com/user-attachments/assets/736451df-07a5-4978-ac6e-41495d1f3562" />
+![Screenshot 2025-07-16 at 4 27 39 PM](https://github.com/user-attachments/assets/c8df6c37-0e8f-4f31-be60-9a53036e26c6)
 
-<img width="1440" height="900" alt="Screenshot 2025-07-16 at 4 27 43 PM" src="https://github.com/user-attachments/assets/7d2f7105-4f3f-4803-97c0-fb3be2eb7cd0" />
+![Screenshot 2025-07-16 at 4 27 43 PM](https://github.com/user-attachments/assets/a1bf47d4-26fd-42f6-82bb-134375a0bdf0)
 
-<img width="1440" height="900" alt="Screenshot 2025-07-16 at 4 28 21 PM" src="https://github.com/user-attachments/assets/ed28a98c-679f-44cf-8c0f-d89d52bde040" />
+![Screenshot 2025-07-16 at 4 28 21 PM](https://github.com/user-attachments/assets/516c5835-4104-4dcb-b914-04668bca9607)
 
-<img width="1440" height="900" alt="Screenshot 2025-07-16 at 4 28 39 PM" src="https://github.com/user-attachments/assets/aeba047a-f103-4dfe-9982-7296f7757839" />
-
+![Screenshot 2025-07-16 at 4 28 39 PM](https://github.com/user-attachments/assets/7e722f2a-b8ef-4843-86c2-6e00af8120b6)
 
 ---
 
