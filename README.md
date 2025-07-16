@@ -31,31 +31,6 @@ This is a full-stack URL Shortening application built with:
 ---
 
 
-```markdown
-## Folder Structure
-
-```
-
-212222060201/
-│
-├── backend/
-│   ├── index.js
-│   ├── routes/
-│   └── controllers/
-│
-├── url-shortener-client/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── App.js
-│   │   └── main.jsx
-│
-├── Logging-Middleware/
-│   ├── log.ts
-│   └── getLogToken.cjs
-
-```
-```
-
 ### ✅ Copy-paste this block into your `README.md` and it will render perfectly aligned in GitHub.
 
 Let me know when your screenshots are ready, and I can update the image markdown for you too.
