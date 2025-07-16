@@ -4,7 +4,6 @@ This is a full-stack URL Shortening application built with:
 
 - **Frontend**: React (Vite)
 - **Backend**: Express.js (Node.js)
-- **Database**: MongoDB
 - **Logging**: Custom logging middleware with token-based access
 
 ---
