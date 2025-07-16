@@ -5,14 +5,12 @@ This is a full-stack URL Shortening application built with:
 - **Frontend**: React (Vite)
 - **Backend**: Express.js (Node.js)
 - **Database**: MongoDB
-- **Auth**: JWT (JSON Web Token)
 - **Logging**: Custom logging middleware with token-based access
 
 ---
 
 ## Features
 
-- Users can register and receive a JWT token.
 - Authenticated users can shorten any valid URL.
 - Optional custom short code and expiry time.
 - Logs every frontend and backend API interaction.
@@ -86,9 +84,9 @@ Visit `http://localhost:5173`
 
 Get your logging token using:
 
-```bash
+
 node getLogToken.cjs
-```
+
 
 Save the token in `localStorage` as `log_token`.
 
